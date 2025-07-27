@@ -80,6 +80,7 @@ Manual bank transfers or cash for payment
 Excel sheets for reporting
 
 While this might work for a solo practice, as soon as the clinic grows, things break down.
+
 🔁 Tasks are duplicated.
 
 ❌ Data gets lost.
